@@ -1,5 +1,7 @@
 # CyberKai
 
+![CyberKai](johnny-automatic-lion-with-sword.svg)
+
 CyberKai is a Kaizen influenced workflow management suite 
 
 # License
